@@ -1,0 +1,9 @@
+{
+  "owner": {
+    "email": "your@email.com"
+  },
+  "record": {
+    "A": ["67.171.124.226"],
+    "url": "https://67.171.124.226/jellyfin"
+  }
+}
